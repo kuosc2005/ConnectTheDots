@@ -60,6 +60,7 @@ Submit your contributions through a Pull Request using the format shown below.
 | abhiyandhakal | [abhiyandhakal/dotfiles](https://github.com/abhiyandhakal/dotfiles) | <img width="1919" height="1079" alt="image" src="https://github.com/abhiyandhakal/dotfiles/blob/c1c4855619bc4769e71b3a531e1f79453be58f07/2025-11-14-225633_hyprshot.png" /> |
 | razzat008 | [razzat008/dotfiles](https://github.com/razzat008/dotfiles) | <img width="1919" height="1079" alt="image" src="https://github.com/razzat008/dotfiles/blob/stowed/screenshot.png?raw=true" />       |
 | ManogyaDahal | [ManogyaDahal/config](https://github.com/ManogyaDahal/config) | <img width="1919" height="1079" alt="image" src="https://github.com/ManogyaDahal/config/blob/master/ss.png" />       |
+| Prabesh-Sharma | [Prabesh-Sharma/dotfiles](https://github.com/Prabesh-Sharma/dotfiles) | <img width="1919" height="1079" alt="image" src="https://github.com/Prabesh-Sharma/dotfiles/blob/main/assets/example.png" />       |
 
 
 ---
