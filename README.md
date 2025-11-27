@@ -63,6 +63,9 @@ Submit your contributions through a Pull Request using the format shown below.
 | Prabesh-Sharma | [Prabesh-Sharma/dotfiles](https://github.com/Prabesh-Sharma/dotfiles) | <img width="1919" height="1079" alt="image" src="https://github.com/Prabesh-Sharma/dotfiles/blob/main/assets/example.png" />       |
 | Sadit Rasaili | [Rasaili-rain/dotfiled-hyper](https://github.com/Rasaili-rain/dotfiled-hyper) | <img width="1920" height="1080" alt="image" src="screenshots/Rasaili-rain.png" />       |
 | Slok Pradhan | [fy-st0rm/sos](https://github.com/fy-st0rm/sos) | <img width="1366" height="768" alt="image" src="https://github.com/fy-st0rm/sos/blob/main/rice-ss.png" />       |
+| Robesckey Dangol Maharjan | [FuNk-y0u/funks_dotfiles]([https://github.com/fy-st0rm/sos](https://github.com/FuNk-y0u/funks_dotfiles)) | <img width="1366" height="768" alt="image" src="https://raw.githubusercontent.com/FuNk-y0u/funks_dotfiles/refs/heads/main/images/images.jpg" />       |
+
+
 
 ---
 
